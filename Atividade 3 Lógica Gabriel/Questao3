@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+   float a= 1.86;
+   char b= 'G';
+   double c= 5.98;
+   
+  printf ("float: %.2f\n char: %c\n double: %.2lf\n", a, b, c );
+    return 0;
+}
+
+
+

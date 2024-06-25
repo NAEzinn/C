@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+   int a= 20, b= 10;
+   int soma= a + b;
+   int subtracao= a - b;
+   int multiplicacao= a * b;
+   int divisao= a / b; 
+   int resto= a % b; 
+   printf ("soma %i\n subtracao %i\n multiplicacao %i\n divisao %i\n resto %i\n ", soma, subtracao, multiplicacao, divisao, resto );
+    return 0;
+}
+
+
+
